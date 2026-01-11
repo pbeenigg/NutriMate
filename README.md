@@ -163,5 +163,5 @@ uvicorn main:app --reload
 
 ## 📄 版权说明
 
-本项目采用 [MIT License](LICENSE) 开源授权。
+本项目采用 [ GPL-2.0 License](LICENSE) 开源授权。
 NutriMate © 2026 Tech Team.
